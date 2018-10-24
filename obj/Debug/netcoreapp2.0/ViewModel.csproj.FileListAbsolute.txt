@@ -1,0 +1,11 @@
+/Users/csleong/Desktop/Coding Dojo/csharp/ViewModel/bin/Debug/netcoreapp2.0/ViewModel.deps.json
+/Users/csleong/Desktop/Coding Dojo/csharp/ViewModel/bin/Debug/netcoreapp2.0/ViewModel.runtimeconfig.json
+/Users/csleong/Desktop/Coding Dojo/csharp/ViewModel/bin/Debug/netcoreapp2.0/ViewModel.runtimeconfig.dev.json
+/Users/csleong/Desktop/Coding Dojo/csharp/ViewModel/bin/Debug/netcoreapp2.0/ViewModel.dll
+/Users/csleong/Desktop/Coding Dojo/csharp/ViewModel/bin/Debug/netcoreapp2.0/ViewModel.pdb
+/Users/csleong/Desktop/Coding Dojo/csharp/ViewModel/obj/Debug/netcoreapp2.0/ViewModel.csprojResolveAssemblyReference.cache
+/Users/csleong/Desktop/Coding Dojo/csharp/ViewModel/obj/Debug/netcoreapp2.0/ViewModel.csproj.CoreCompileInputs.cache
+/Users/csleong/Desktop/Coding Dojo/csharp/ViewModel/obj/Debug/netcoreapp2.0/ViewModel.AssemblyInfoInputs.cache
+/Users/csleong/Desktop/Coding Dojo/csharp/ViewModel/obj/Debug/netcoreapp2.0/ViewModel.AssemblyInfo.cs
+/Users/csleong/Desktop/Coding Dojo/csharp/ViewModel/obj/Debug/netcoreapp2.0/ViewModel.dll
+/Users/csleong/Desktop/Coding Dojo/csharp/ViewModel/obj/Debug/netcoreapp2.0/ViewModel.pdb

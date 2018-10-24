@@ -1,0 +1,11 @@
+
+
+
+
+<h1>Here are some user!</h1>
+@{
+    Random rand = new Random();
+    var i = Model.peoples.Length;
+    <p>@Model.peoples[rand.Next(i)]</p>
+
+}
